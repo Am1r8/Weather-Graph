@@ -1,2 +1,2 @@
 # Weather-Graph
-See Graphs about weather in different cities and countries in differnet time frames in two different measurments, "celsius" and "Faranheit".
+See Graphs about the weather in different cities and countries in different time frames in two different measurements, "Celsius" and "Fahrenheit".
